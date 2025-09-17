@@ -8067,42 +8067,7 @@
           "plkId": 75,
           "plankNum": "9504526094310",
           "installNum": 4,
-          "plankRemarks": [
-            {
-              "direction": "horizontal",
-              "currentRow": 2,
-              "currentColumn": 4,
-              "vertices": [
-                { "x": 16, "z": 225.5, "y": 0 },
-                { "x": 216, "z": 225.5, "y": 0 },
-                { "x": 216, "z": 325.5, "y": 0 },
-                { "x": 16, "z": 325.5, "y": 0 }
-              ],
-              "side": "positive",
-              "textStyle": { "size": 10, "color": "#000000" },
-              "textureId": "挑出做左圆弧底板_2_4_horizontal.png",
-              "hDir": "!X",
-              "showTexts": "挑出做左圆弧底板",
-              "text": "挑出做左圆弧底板"
-            },
-            {
-              "direction": "horizontal",
-              "currentRow": 2,
-              "currentColumn": 4,
-              "vertices": [
-                { "x": 16, "z": 325.5, "y": 18 },
-                { "x": 216, "z": 325.5, "y": 18 },
-                { "x": 216, "z": 225.5, "y": 18 },
-                { "x": 16, "z": 225.5, "y": 18 }
-              ],
-              "side": "negative",
-              "textStyle": { "size": 10, "color": "#000000" },
-              "textureId": "挑出做左圆弧底板_2_4_horizontal.png",
-              "hDir": "!X",
-              "showTexts": "挑出做左圆弧底板",
-              "text": "挑出做左圆弧底板"
-            }
-          ],
+          "plankRemarks": [],
           "wordList": {},
           "plankRoleType": 5,
           "creator": "",
