@@ -253,7 +253,7 @@
               "diameter": 5,
               "holeType": "preHole",
               "symbol": "NAIL",
-              "uniqueId": 23950,
+              "uniqueId": 24219,
               "others": null
             },
             {
@@ -265,7 +265,7 @@
               "diameter": 5,
               "holeType": "preHole",
               "symbol": "NAIL",
-              "uniqueId": 23951,
+              "uniqueId": 24220,
               "others": null
             },
             {
@@ -277,7 +277,7 @@
               "diameter": 5,
               "holeType": "preHole",
               "symbol": "NAIL",
-              "uniqueId": 23955,
+              "uniqueId": 24224,
               "others": null
             },
             {
@@ -289,7 +289,7 @@
               "diameter": 5,
               "holeType": "preHole",
               "symbol": "NAIL",
-              "uniqueId": 23956,
+              "uniqueId": 24225,
               "others": null
             }
           ],
@@ -333,8 +333,8 @@
           "rotateInfo": "",
           "colorUniqueId": "private_14580094",
           "isWeldingPlank": false,
-          "ggid": "8rO.h001",
-          "barCodeGgid": "594570073000001"
+          "ggid": "8rRTp001",
+          "barCodeGgid": "594592621000001"
         },
         {
           "partName": "Plank",
@@ -673,7 +673,7 @@
               "diameter": 5,
               "holeType": "preHole",
               "symbol": "NAIL",
-              "uniqueId": 23942,
+              "uniqueId": 24211,
               "others": null
             },
             {
@@ -685,7 +685,7 @@
               "diameter": 5,
               "holeType": "preHole",
               "symbol": "NAIL",
-              "uniqueId": 23943,
+              "uniqueId": 24212,
               "others": null
             },
             {
@@ -697,7 +697,7 @@
               "diameter": 5,
               "holeType": "preHole",
               "symbol": "NAIL",
-              "uniqueId": 23947,
+              "uniqueId": 24216,
               "others": null
             },
             {
@@ -709,7 +709,7 @@
               "diameter": 5,
               "holeType": "preHole",
               "symbol": "NAIL",
-              "uniqueId": 23948,
+              "uniqueId": 24217,
               "others": null
             }
           ],
@@ -753,8 +753,8 @@
           "rotateInfo": "",
           "colorUniqueId": "private_14580094",
           "isWeldingPlank": false,
-          "ggid": "8rO.h002",
-          "barCodeGgid": "594570073000002"
+          "ggid": "8rRTp002",
+          "barCodeGgid": "594592621000002"
         },
         {
           "partName": "Plank",
@@ -1192,7 +1192,7 @@
               "diameter": 5,
               "holeType": "preHole",
               "symbol": "NAIL",
-              "uniqueId": 23940,
+              "uniqueId": 24209,
               "others": null
             },
             {
@@ -1204,7 +1204,7 @@
               "diameter": 5,
               "holeType": "preHole",
               "symbol": "NAIL",
-              "uniqueId": 23941,
+              "uniqueId": 24210,
               "others": null
             },
             {
@@ -1216,7 +1216,7 @@
               "diameter": 5,
               "holeType": "preHole",
               "symbol": "NAIL",
-              "uniqueId": 23945,
+              "uniqueId": 24214,
               "others": null
             },
             {
@@ -1228,7 +1228,7 @@
               "diameter": 5,
               "holeType": "preHole",
               "symbol": "NAIL",
-              "uniqueId": 23946,
+              "uniqueId": 24215,
               "others": null
             },
             {
@@ -1240,7 +1240,7 @@
               "diameter": 5,
               "holeType": "preHole",
               "symbol": "NAIL",
-              "uniqueId": 23952,
+              "uniqueId": 24221,
               "others": null
             },
             {
@@ -1252,7 +1252,7 @@
               "diameter": 5,
               "holeType": "preHole",
               "symbol": "NAIL",
-              "uniqueId": 23953,
+              "uniqueId": 24222,
               "others": null
             },
             {
@@ -1264,7 +1264,7 @@
               "diameter": 5,
               "holeType": "preHole",
               "symbol": "NAIL",
-              "uniqueId": 23957,
+              "uniqueId": 24226,
               "others": null
             },
             {
@@ -1276,7 +1276,7 @@
               "diameter": 5,
               "holeType": "preHole",
               "symbol": "NAIL",
-              "uniqueId": 23958,
+              "uniqueId": 24227,
               "others": null
             }
           ],
@@ -1346,8 +1346,8 @@
           "rotateInfo": "",
           "colorUniqueId": "private_14580094",
           "isWeldingPlank": false,
-          "ggid": "8rO.h009",
-          "barCodeGgid": "594570073000009"
+          "ggid": "8rRTp009",
+          "barCodeGgid": "594592621000009"
         },
         {
           "partName": "WLineBottom",
@@ -1520,7 +1520,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23800,
+                  "uniqueId": 24069,
                   "others": null
                 },
                 {
@@ -1532,7 +1532,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23801,
+                  "uniqueId": 24070,
                   "others": null
                 },
                 {
@@ -1544,7 +1544,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23802,
+                  "uniqueId": 24071,
                   "others": null
                 },
                 {
@@ -1556,7 +1556,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23803,
+                  "uniqueId": 24072,
                   "others": null
                 }
               ],
@@ -1571,7 +1571,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23800,
+                  "uniqueId": 24069,
                   "others": null
                 },
                 {
@@ -1583,7 +1583,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23801,
+                  "uniqueId": 24070,
                   "others": null
                 },
                 {
@@ -1595,7 +1595,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23802,
+                  "uniqueId": 24071,
                   "others": null
                 },
                 {
@@ -1607,7 +1607,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23803,
+                  "uniqueId": 24072,
                   "others": null
                 }
               ],
@@ -1622,8 +1622,8 @@
               "rotateInfo": "",
               "colorUniqueId": "private_14580094",
               "isWeldingPlank": false,
-              "ggid": "8rO.h00b",
-              "barCodeGgid": "594570073000011"
+              "ggid": "8rRTp00b",
+              "barCodeGgid": "594592621000011"
             },
             {
               "partName": "Plank",
@@ -1831,7 +1831,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23805,
+                  "uniqueId": 24074,
                   "others": null
                 },
                 {
@@ -1843,7 +1843,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23806,
+                  "uniqueId": 24075,
                   "others": null
                 },
                 {
@@ -1855,7 +1855,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23807,
+                  "uniqueId": 24076,
                   "others": null
                 },
                 {
@@ -1867,7 +1867,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23808,
+                  "uniqueId": 24077,
                   "others": null
                 },
                 {
@@ -1879,7 +1879,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23809,
+                  "uniqueId": 24078,
                   "others": null
                 },
                 {
@@ -1891,7 +1891,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23810,
+                  "uniqueId": 24079,
                   "others": null
                 },
                 {
@@ -1903,7 +1903,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23811,
+                  "uniqueId": 24080,
                   "others": null
                 }
               ],
@@ -1918,7 +1918,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23805,
+                  "uniqueId": 24074,
                   "others": null
                 },
                 {
@@ -1930,7 +1930,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23806,
+                  "uniqueId": 24075,
                   "others": null
                 },
                 {
@@ -1942,7 +1942,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23807,
+                  "uniqueId": 24076,
                   "others": null
                 },
                 {
@@ -1954,7 +1954,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23808,
+                  "uniqueId": 24077,
                   "others": null
                 },
                 {
@@ -1966,7 +1966,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23809,
+                  "uniqueId": 24078,
                   "others": null
                 },
                 {
@@ -1978,7 +1978,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23810,
+                  "uniqueId": 24079,
                   "others": null
                 },
                 {
@@ -1990,7 +1990,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23811,
+                  "uniqueId": 24080,
                   "others": null
                 }
               ],
@@ -2005,8 +2005,8 @@
               "rotateInfo": "",
               "colorUniqueId": "private_14580094",
               "isWeldingPlank": false,
-              "ggid": "8rO.h00c",
-              "barCodeGgid": "594570073000012"
+              "ggid": "8rRTp00c",
+              "barCodeGgid": "594592621000012"
             },
             {
               "partName": "Plank",
@@ -2214,7 +2214,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23813,
+                  "uniqueId": 24082,
                   "others": null
                 },
                 {
@@ -2226,7 +2226,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23814,
+                  "uniqueId": 24083,
                   "others": null
                 },
                 {
@@ -2238,7 +2238,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23815,
+                  "uniqueId": 24084,
                   "others": null
                 },
                 {
@@ -2250,7 +2250,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23816,
+                  "uniqueId": 24085,
                   "others": null
                 },
                 {
@@ -2262,7 +2262,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23817,
+                  "uniqueId": 24086,
                   "others": null
                 },
                 {
@@ -2274,7 +2274,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23818,
+                  "uniqueId": 24087,
                   "others": null
                 },
                 {
@@ -2286,7 +2286,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23819,
+                  "uniqueId": 24088,
                   "others": null
                 }
               ],
@@ -2301,7 +2301,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23813,
+                  "uniqueId": 24082,
                   "others": null
                 },
                 {
@@ -2313,7 +2313,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23814,
+                  "uniqueId": 24083,
                   "others": null
                 },
                 {
@@ -2325,7 +2325,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23815,
+                  "uniqueId": 24084,
                   "others": null
                 },
                 {
@@ -2337,7 +2337,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23816,
+                  "uniqueId": 24085,
                   "others": null
                 },
                 {
@@ -2349,7 +2349,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23817,
+                  "uniqueId": 24086,
                   "others": null
                 },
                 {
@@ -2361,7 +2361,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23818,
+                  "uniqueId": 24087,
                   "others": null
                 },
                 {
@@ -2373,7 +2373,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23819,
+                  "uniqueId": 24088,
                   "others": null
                 }
               ],
@@ -2388,8 +2388,8 @@
               "rotateInfo": "",
               "colorUniqueId": "private_14580094",
               "isWeldingPlank": false,
-              "ggid": "8rO.h00d",
-              "barCodeGgid": "594570073000013"
+              "ggid": "8rRTp00d",
+              "barCodeGgid": "594592621000013"
             }
           ],
           "partsChildren": [],
@@ -2647,7 +2647,7 @@
               "diameter": 15,
               "holeType": "bigHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23821,
+              "uniqueId": 24090,
               "others": null
             },
             {
@@ -2659,7 +2659,7 @@
               "diameter": 15,
               "holeType": "bigHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23822,
+              "uniqueId": 24091,
               "others": null
             },
             {
@@ -2671,7 +2671,7 @@
               "diameter": 15,
               "holeType": "bigHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23823,
+              "uniqueId": 24092,
               "others": null
             },
             {
@@ -2683,7 +2683,7 @@
               "diameter": 15,
               "holeType": "bigHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23824,
+              "uniqueId": 24093,
               "others": null
             }
           ],
@@ -2712,7 +2712,7 @@
               "diameter": 8,
               "holeType": "sideHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23821,
+              "uniqueId": 24090,
               "others": null
             },
             {
@@ -2724,7 +2724,7 @@
               "diameter": 8,
               "holeType": "sideHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23822,
+              "uniqueId": 24091,
               "others": null
             },
             {
@@ -2736,7 +2736,7 @@
               "diameter": 8,
               "holeType": "sideHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23823,
+              "uniqueId": 24092,
               "others": null
             },
             {
@@ -2748,7 +2748,7 @@
               "diameter": 8,
               "holeType": "sideHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23824,
+              "uniqueId": 24093,
               "others": null
             }
           ],
@@ -2763,8 +2763,8 @@
           "rotateInfo": "",
           "colorUniqueId": "private_14580094",
           "isWeldingPlank": false,
-          "ggid": "8rO.h00a",
-          "barCodeGgid": "594570073000010"
+          "ggid": "8rRTp00a",
+          "barCodeGgid": "594592621000010"
         },
         {
           "partName": "Plank",
@@ -2954,7 +2954,7 @@
               "diameter": 15,
               "holeType": "bigHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23826,
+              "uniqueId": 24095,
               "others": null
             },
             {
@@ -2966,7 +2966,7 @@
               "diameter": 15,
               "holeType": "bigHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23827,
+              "uniqueId": 24096,
               "others": null
             },
             {
@@ -2978,7 +2978,7 @@
               "diameter": 15,
               "holeType": "bigHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23828,
+              "uniqueId": 24097,
               "others": null
             },
             {
@@ -2990,7 +2990,7 @@
               "diameter": 15,
               "holeType": "bigHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23829,
+              "uniqueId": 24098,
               "others": null
             }
           ],
@@ -3019,7 +3019,7 @@
               "diameter": 8,
               "holeType": "sideHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23826,
+              "uniqueId": 24095,
               "others": null
             },
             {
@@ -3031,7 +3031,7 @@
               "diameter": 8,
               "holeType": "sideHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23827,
+              "uniqueId": 24096,
               "others": null
             },
             {
@@ -3043,7 +3043,7 @@
               "diameter": 8,
               "holeType": "sideHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23828,
+              "uniqueId": 24097,
               "others": null
             },
             {
@@ -3055,7 +3055,7 @@
               "diameter": 8,
               "holeType": "sideHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23829,
+              "uniqueId": 24098,
               "others": null
             }
           ],
@@ -3070,8 +3070,8 @@
           "rotateInfo": "",
           "colorUniqueId": "private_14580094",
           "isWeldingPlank": false,
-          "ggid": "8rO.h00e",
-          "barCodeGgid": "594570073000014"
+          "ggid": "8rRTp00e",
+          "barCodeGgid": "594592621000014"
         },
         {
           "partName": "Plank",
@@ -3261,7 +3261,7 @@
               "diameter": 15,
               "holeType": "bigHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23831,
+              "uniqueId": 24100,
               "others": null
             },
             {
@@ -3273,7 +3273,7 @@
               "diameter": 15,
               "holeType": "bigHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23832,
+              "uniqueId": 24101,
               "others": null
             },
             {
@@ -3285,7 +3285,7 @@
               "diameter": 15,
               "holeType": "bigHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23833,
+              "uniqueId": 24102,
               "others": null
             },
             {
@@ -3297,7 +3297,7 @@
               "diameter": 15,
               "holeType": "bigHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23834,
+              "uniqueId": 24103,
               "others": null
             }
           ],
@@ -3339,7 +3339,7 @@
               "diameter": 8,
               "holeType": "sideHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23831,
+              "uniqueId": 24100,
               "others": null
             },
             {
@@ -3351,7 +3351,7 @@
               "diameter": 8,
               "holeType": "sideHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23832,
+              "uniqueId": 24101,
               "others": null
             },
             {
@@ -3363,7 +3363,7 @@
               "diameter": 8,
               "holeType": "sideHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23833,
+              "uniqueId": 24102,
               "others": null
             },
             {
@@ -3375,7 +3375,7 @@
               "diameter": 8,
               "holeType": "sideHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23834,
+              "uniqueId": 24103,
               "others": null
             }
           ],
@@ -3390,8 +3390,8 @@
           "rotateInfo": "",
           "colorUniqueId": "private_14580094",
           "isWeldingPlank": false,
-          "ggid": "8rO.h00f",
-          "barCodeGgid": "594570073000015"
+          "ggid": "8rRTp00f",
+          "barCodeGgid": "594592621000015"
         },
         {
           "partName": "FreeHandle",
@@ -3615,7 +3615,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23730,
+                  "uniqueId": 23999,
                   "others": null
                 },
                 {
@@ -3627,7 +3627,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23731,
+                  "uniqueId": 24000,
                   "others": null
                 },
                 {
@@ -3639,7 +3639,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23732,
+                  "uniqueId": 24001,
                   "others": null
                 },
                 {
@@ -3651,7 +3651,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23733,
+                  "uniqueId": 24002,
                   "others": null
                 },
                 {
@@ -3663,7 +3663,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23734,
+                  "uniqueId": 24003,
                   "others": null
                 },
                 {
@@ -3675,7 +3675,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23735,
+                  "uniqueId": 24004,
                   "others": null
                 },
                 {
@@ -3687,7 +3687,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23736,
+                  "uniqueId": 24005,
                   "others": null
                 },
                 {
@@ -3699,7 +3699,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23737,
+                  "uniqueId": 24006,
                   "others": null
                 },
                 {
@@ -3711,7 +3711,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23738,
+                  "uniqueId": 24007,
                   "others": null
                 },
                 {
@@ -3723,7 +3723,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23739,
+                  "uniqueId": 24008,
                   "others": null
                 }
               ],
@@ -3738,7 +3738,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23730,
+                  "uniqueId": 23999,
                   "others": null
                 },
                 {
@@ -3750,7 +3750,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23731,
+                  "uniqueId": 24000,
                   "others": null
                 },
                 {
@@ -3762,7 +3762,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23732,
+                  "uniqueId": 24001,
                   "others": null
                 },
                 {
@@ -3774,7 +3774,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23733,
+                  "uniqueId": 24002,
                   "others": null
                 },
                 {
@@ -3786,7 +3786,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23734,
+                  "uniqueId": 24003,
                   "others": null
                 },
                 {
@@ -3798,7 +3798,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23735,
+                  "uniqueId": 24004,
                   "others": null
                 },
                 {
@@ -3810,7 +3810,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23736,
+                  "uniqueId": 24005,
                   "others": null
                 },
                 {
@@ -3822,7 +3822,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23737,
+                  "uniqueId": 24006,
                   "others": null
                 },
                 {
@@ -3834,7 +3834,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23738,
+                  "uniqueId": 24007,
                   "others": null
                 },
                 {
@@ -3846,7 +3846,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23739,
+                  "uniqueId": 24008,
                   "others": null
                 }
               ],
@@ -3861,8 +3861,8 @@
               "rotateInfo": "",
               "colorUniqueId": "private_14580094",
               "isWeldingPlank": false,
-              "ggid": "8rO.h00h",
-              "barCodeGgid": "594570073000017"
+              "ggid": "8rRTp00h",
+              "barCodeGgid": "594592621000017"
             },
             {
               "partName": "Plank",
@@ -4051,7 +4051,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23741,
+                  "uniqueId": 24010,
                   "others": null
                 },
                 {
@@ -4063,7 +4063,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23742,
+                  "uniqueId": 24011,
                   "others": null
                 },
                 {
@@ -4075,7 +4075,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23743,
+                  "uniqueId": 24012,
                   "others": null
                 },
                 {
@@ -4087,7 +4087,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23744,
+                  "uniqueId": 24013,
                   "others": null
                 }
               ],
@@ -4102,7 +4102,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23741,
+                  "uniqueId": 24010,
                   "others": null
                 },
                 {
@@ -4114,7 +4114,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23742,
+                  "uniqueId": 24011,
                   "others": null
                 },
                 {
@@ -4126,7 +4126,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23743,
+                  "uniqueId": 24012,
                   "others": null
                 },
                 {
@@ -4138,7 +4138,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23744,
+                  "uniqueId": 24013,
                   "others": null
                 }
               ],
@@ -4153,8 +4153,8 @@
               "rotateInfo": "",
               "colorUniqueId": "private_14580094",
               "isWeldingPlank": false,
-              "ggid": "8rO.h00i",
-              "barCodeGgid": "594570073000018"
+              "ggid": "8rRTp00i",
+              "barCodeGgid": "594592621000018"
             }
           ],
           "partsChildren": [],
@@ -4378,7 +4378,7 @@
               "diameter": 15,
               "holeType": "bigHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23836,
+              "uniqueId": 24105,
               "others": null
             },
             {
@@ -4390,7 +4390,7 @@
               "diameter": 15,
               "holeType": "bigHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23837,
+              "uniqueId": 24106,
               "others": null
             },
             {
@@ -4402,7 +4402,7 @@
               "diameter": 15,
               "holeType": "bigHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23838,
+              "uniqueId": 24107,
               "others": null
             },
             {
@@ -4414,7 +4414,7 @@
               "diameter": 15,
               "holeType": "bigHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23839,
+              "uniqueId": 24108,
               "others": null
             }
           ],
@@ -4456,7 +4456,7 @@
               "diameter": 8,
               "holeType": "sideHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23836,
+              "uniqueId": 24105,
               "others": null
             },
             {
@@ -4468,7 +4468,7 @@
               "diameter": 8,
               "holeType": "sideHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23837,
+              "uniqueId": 24106,
               "others": null
             },
             {
@@ -4480,7 +4480,7 @@
               "diameter": 8,
               "holeType": "sideHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23838,
+              "uniqueId": 24107,
               "others": null
             },
             {
@@ -4492,7 +4492,7 @@
               "diameter": 8,
               "holeType": "sideHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23839,
+              "uniqueId": 24108,
               "others": null
             }
           ],
@@ -4507,8 +4507,8 @@
           "rotateInfo": "",
           "colorUniqueId": "private_14580094",
           "isWeldingPlank": false,
-          "ggid": "8rO.h00m",
-          "barCodeGgid": "594570073000022"
+          "ggid": "8rRTp00m",
+          "barCodeGgid": "594592621000022"
         },
         {
           "partName": "FreeHandle",
@@ -4732,7 +4732,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23746,
+                  "uniqueId": 24015,
                   "others": null
                 },
                 {
@@ -4744,7 +4744,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23747,
+                  "uniqueId": 24016,
                   "others": null
                 },
                 {
@@ -4756,7 +4756,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23748,
+                  "uniqueId": 24017,
                   "others": null
                 },
                 {
@@ -4768,7 +4768,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23749,
+                  "uniqueId": 24018,
                   "others": null
                 },
                 {
@@ -4780,7 +4780,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23750,
+                  "uniqueId": 24019,
                   "others": null
                 },
                 {
@@ -4792,7 +4792,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23751,
+                  "uniqueId": 24020,
                   "others": null
                 },
                 {
@@ -4804,7 +4804,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23752,
+                  "uniqueId": 24021,
                   "others": null
                 },
                 {
@@ -4816,7 +4816,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23753,
+                  "uniqueId": 24022,
                   "others": null
                 },
                 {
@@ -4828,7 +4828,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23754,
+                  "uniqueId": 24023,
                   "others": null
                 },
                 {
@@ -4840,7 +4840,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23755,
+                  "uniqueId": 24024,
                   "others": null
                 }
               ],
@@ -4855,7 +4855,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23746,
+                  "uniqueId": 24015,
                   "others": null
                 },
                 {
@@ -4867,7 +4867,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23747,
+                  "uniqueId": 24016,
                   "others": null
                 },
                 {
@@ -4879,7 +4879,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23748,
+                  "uniqueId": 24017,
                   "others": null
                 },
                 {
@@ -4891,7 +4891,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23749,
+                  "uniqueId": 24018,
                   "others": null
                 },
                 {
@@ -4903,7 +4903,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23750,
+                  "uniqueId": 24019,
                   "others": null
                 },
                 {
@@ -4915,7 +4915,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23751,
+                  "uniqueId": 24020,
                   "others": null
                 },
                 {
@@ -4927,7 +4927,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23752,
+                  "uniqueId": 24021,
                   "others": null
                 },
                 {
@@ -4939,7 +4939,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23753,
+                  "uniqueId": 24022,
                   "others": null
                 },
                 {
@@ -4951,7 +4951,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23754,
+                  "uniqueId": 24023,
                   "others": null
                 },
                 {
@@ -4963,7 +4963,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23755,
+                  "uniqueId": 24024,
                   "others": null
                 }
               ],
@@ -4978,8 +4978,8 @@
               "rotateInfo": "",
               "colorUniqueId": "private_14580094",
               "isWeldingPlank": false,
-              "ggid": "8rO.h00o",
-              "barCodeGgid": "594570073000024"
+              "ggid": "8rRTp00o",
+              "barCodeGgid": "594592621000024"
             },
             {
               "partName": "Plank",
@@ -5168,7 +5168,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23757,
+                  "uniqueId": 24026,
                   "others": null
                 },
                 {
@@ -5180,7 +5180,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23758,
+                  "uniqueId": 24027,
                   "others": null
                 },
                 {
@@ -5192,7 +5192,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23759,
+                  "uniqueId": 24028,
                   "others": null
                 },
                 {
@@ -5204,7 +5204,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23760,
+                  "uniqueId": 24029,
                   "others": null
                 }
               ],
@@ -5219,7 +5219,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23757,
+                  "uniqueId": 24026,
                   "others": null
                 },
                 {
@@ -5231,7 +5231,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23758,
+                  "uniqueId": 24027,
                   "others": null
                 },
                 {
@@ -5243,7 +5243,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23759,
+                  "uniqueId": 24028,
                   "others": null
                 },
                 {
@@ -5255,7 +5255,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23760,
+                  "uniqueId": 24029,
                   "others": null
                 }
               ],
@@ -5270,8 +5270,8 @@
               "rotateInfo": "",
               "colorUniqueId": "private_14580094",
               "isWeldingPlank": false,
-              "ggid": "8rO.h00p",
-              "barCodeGgid": "594570073000025"
+              "ggid": "8rRTp00p",
+              "barCodeGgid": "594592621000025"
             }
           ],
           "partsChildren": [],
@@ -5475,7 +5475,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23762,
+                  "uniqueId": 24031,
                   "others": null
                 },
                 {
@@ -5487,7 +5487,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23763,
+                  "uniqueId": 24032,
                   "others": null
                 },
                 {
@@ -5499,7 +5499,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23764,
+                  "uniqueId": 24033,
                   "others": null
                 },
                 {
@@ -5511,7 +5511,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23765,
+                  "uniqueId": 24034,
                   "others": null
                 },
                 {
@@ -5559,7 +5559,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23762,
+                  "uniqueId": 24031,
                   "others": null
                 },
                 {
@@ -5571,7 +5571,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23763,
+                  "uniqueId": 24032,
                   "others": null
                 },
                 {
@@ -5583,7 +5583,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23764,
+                  "uniqueId": 24033,
                   "others": null
                 },
                 {
@@ -5595,7 +5595,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23765,
+                  "uniqueId": 24034,
                   "others": null
                 }
               ],
@@ -5610,8 +5610,8 @@
               "rotateInfo": "",
               "colorUniqueId": "private_14580094",
               "isWeldingPlank": false,
-              "ggid": "8rO.h00q",
-              "barCodeGgid": "594570073000026"
+              "ggid": "8rRTp00q",
+              "barCodeGgid": "594592621000026"
             },
             {
               "partName": "Plank",
@@ -5821,7 +5821,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23767,
+                  "uniqueId": 24036,
                   "others": null
                 },
                 {
@@ -5833,7 +5833,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23768,
+                  "uniqueId": 24037,
                   "others": null
                 },
                 {
@@ -5845,7 +5845,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23769,
+                  "uniqueId": 24038,
                   "others": null
                 },
                 {
@@ -5857,7 +5857,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23770,
+                  "uniqueId": 24039,
                   "others": null
                 },
                 {
@@ -5869,7 +5869,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23771,
+                  "uniqueId": 24040,
                   "others": null
                 },
                 {
@@ -5881,7 +5881,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23772,
+                  "uniqueId": 24041,
                   "others": null
                 },
                 {
@@ -5893,7 +5893,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23773,
+                  "uniqueId": 24042,
                   "others": null
                 },
                 {
@@ -5905,7 +5905,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23774,
+                  "uniqueId": 24043,
                   "others": null
                 },
                 {
@@ -5917,7 +5917,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23775,
+                  "uniqueId": 24044,
                   "others": null
                 },
                 {
@@ -5929,7 +5929,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23776,
+                  "uniqueId": 24045,
                   "others": null
                 }
               ],
@@ -5944,7 +5944,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23767,
+                  "uniqueId": 24036,
                   "others": null
                 },
                 {
@@ -5956,7 +5956,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23768,
+                  "uniqueId": 24037,
                   "others": null
                 },
                 {
@@ -5968,7 +5968,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23769,
+                  "uniqueId": 24038,
                   "others": null
                 },
                 {
@@ -5980,7 +5980,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23770,
+                  "uniqueId": 24039,
                   "others": null
                 },
                 {
@@ -5992,7 +5992,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23771,
+                  "uniqueId": 24040,
                   "others": null
                 },
                 {
@@ -6004,7 +6004,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23772,
+                  "uniqueId": 24041,
                   "others": null
                 },
                 {
@@ -6016,7 +6016,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23773,
+                  "uniqueId": 24042,
                   "others": null
                 },
                 {
@@ -6028,7 +6028,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23774,
+                  "uniqueId": 24043,
                   "others": null
                 },
                 {
@@ -6040,7 +6040,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23775,
+                  "uniqueId": 24044,
                   "others": null
                 },
                 {
@@ -6052,7 +6052,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23776,
+                  "uniqueId": 24045,
                   "others": null
                 }
               ],
@@ -6067,8 +6067,8 @@
               "rotateInfo": "",
               "colorUniqueId": "private_14580094",
               "isWeldingPlank": false,
-              "ggid": "8rO.h00r",
-              "barCodeGgid": "594570073000027"
+              "ggid": "8rRTp00r",
+              "barCodeGgid": "594592621000027"
             },
             {
               "partName": "Plank",
@@ -6257,7 +6257,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23778,
+                  "uniqueId": 24047,
                   "others": null
                 },
                 {
@@ -6269,7 +6269,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23779,
+                  "uniqueId": 24048,
                   "others": null
                 },
                 {
@@ -6281,7 +6281,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23780,
+                  "uniqueId": 24049,
                   "others": null
                 },
                 {
@@ -6293,7 +6293,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23781,
+                  "uniqueId": 24050,
                   "others": null
                 }
               ],
@@ -6308,7 +6308,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23778,
+                  "uniqueId": 24047,
                   "others": null
                 },
                 {
@@ -6320,7 +6320,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23779,
+                  "uniqueId": 24048,
                   "others": null
                 },
                 {
@@ -6332,7 +6332,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23780,
+                  "uniqueId": 24049,
                   "others": null
                 },
                 {
@@ -6344,7 +6344,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23781,
+                  "uniqueId": 24050,
                   "others": null
                 }
               ],
@@ -6359,8 +6359,8 @@
               "rotateInfo": "",
               "colorUniqueId": "private_14580094",
               "isWeldingPlank": false,
-              "ggid": "8rO.h00s",
-              "barCodeGgid": "594570073000028"
+              "ggid": "8rRTp00s",
+              "barCodeGgid": "594592621000028"
             }
           ],
           "partsChildren": [],
@@ -6513,8 +6513,8 @@
           "rotateInfo": "",
           "colorUniqueId": "private_14580094",
           "isWeldingPlank": false,
-          "ggid": "8rO.h00t",
-          "barCodeGgid": "594570073000029"
+          "ggid": "8rRTp00t",
+          "barCodeGgid": "594592621000029"
         },
         {
           "partName": "Plank",
@@ -6633,8 +6633,8 @@
           "rotateInfo": "",
           "colorUniqueId": "private_14580094",
           "isWeldingPlank": false,
-          "ggid": "8rO.h00u",
-          "barCodeGgid": "594570073000030"
+          "ggid": "8rRTp00u",
+          "barCodeGgid": "594592621000030"
         },
         {
           "partName": "Plank",
@@ -6753,8 +6753,8 @@
           "rotateInfo": "",
           "colorUniqueId": "private_14580094",
           "isWeldingPlank": false,
-          "ggid": "8rO.h00v",
-          "barCodeGgid": "594570073000031"
+          "ggid": "8rRTp00v",
+          "barCodeGgid": "594592621000031"
         },
         {
           "partName": "Plank",
@@ -6873,8 +6873,8 @@
           "rotateInfo": "",
           "colorUniqueId": "private_14580094",
           "isWeldingPlank": false,
-          "ggid": "8rO.h00w",
-          "barCodeGgid": "594570073000032"
+          "ggid": "8rRTp00w",
+          "barCodeGgid": "594592621000032"
         },
         {
           "partName": "Plank",
@@ -7075,7 +7075,7 @@
               "diameter": 15,
               "holeType": "bigHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23787,
+              "uniqueId": 24056,
               "others": null
             },
             {
@@ -7087,7 +7087,7 @@
               "diameter": 15,
               "holeType": "bigHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23788,
+              "uniqueId": 24057,
               "others": null
             },
             {
@@ -7099,7 +7099,7 @@
               "diameter": 15,
               "holeType": "bigHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23789,
+              "uniqueId": 24058,
               "others": null
             },
             {
@@ -7111,7 +7111,7 @@
               "diameter": 15,
               "holeType": "bigHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23790,
+              "uniqueId": 24059,
               "others": null
             },
             {
@@ -7123,7 +7123,7 @@
               "diameter": 15,
               "holeType": "bigHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23791,
+              "uniqueId": 24060,
               "others": null
             },
             {
@@ -7135,7 +7135,7 @@
               "diameter": 15,
               "holeType": "bigHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23792,
+              "uniqueId": 24061,
               "others": null
             },
             {
@@ -7147,7 +7147,7 @@
               "diameter": 15,
               "holeType": "bigHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23793,
+              "uniqueId": 24062,
               "others": null
             },
             {
@@ -7159,7 +7159,7 @@
               "diameter": 15,
               "holeType": "bigHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23794,
+              "uniqueId": 24063,
               "others": null
             },
             {
@@ -7171,7 +7171,7 @@
               "diameter": 15,
               "holeType": "bigHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23795,
+              "uniqueId": 24064,
               "others": null
             }
           ],
@@ -7186,7 +7186,7 @@
               "diameter": 8,
               "holeType": "sideHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23787,
+              "uniqueId": 24056,
               "others": null
             },
             {
@@ -7198,7 +7198,7 @@
               "diameter": 8,
               "holeType": "sideHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23788,
+              "uniqueId": 24057,
               "others": null
             },
             {
@@ -7210,7 +7210,7 @@
               "diameter": 8,
               "holeType": "sideHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23789,
+              "uniqueId": 24058,
               "others": null
             },
             {
@@ -7222,7 +7222,7 @@
               "diameter": 8,
               "holeType": "sideHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23790,
+              "uniqueId": 24059,
               "others": null
             },
             {
@@ -7234,7 +7234,7 @@
               "diameter": 8,
               "holeType": "sideHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23791,
+              "uniqueId": 24060,
               "others": null
             },
             {
@@ -7246,7 +7246,7 @@
               "diameter": 8,
               "holeType": "sideHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23792,
+              "uniqueId": 24061,
               "others": null
             },
             {
@@ -7258,7 +7258,7 @@
               "diameter": 8,
               "holeType": "sideHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23793,
+              "uniqueId": 24062,
               "others": null
             },
             {
@@ -7270,7 +7270,7 @@
               "diameter": 8,
               "holeType": "sideHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23794,
+              "uniqueId": 24063,
               "others": null
             },
             {
@@ -7282,7 +7282,7 @@
               "diameter": 8,
               "holeType": "sideHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23795,
+              "uniqueId": 24064,
               "others": null
             }
           ],
@@ -7297,8 +7297,8 @@
           "rotateInfo": "",
           "colorUniqueId": "private_14580094",
           "isWeldingPlank": false,
-          "ggid": "8rO.h00x",
-          "barCodeGgid": "594570073000033"
+          "ggid": "8rRTp00x",
+          "barCodeGgid": "594592621000033"
         },
         {
           "partName": "Door",
@@ -7456,8 +7456,8 @@
               "rotateInfo": "",
               "colorUniqueId": "private_14580094",
               "isWeldingPlank": false,
-              "ggid": "8rO.h00L",
-              "barCodeGgid": "594570073000047"
+              "ggid": "8rRTp00L",
+              "barCodeGgid": "594592621000047"
             },
             {
               "partName": "SingleDoor",
@@ -7601,8 +7601,8 @@
               "rotateInfo": "",
               "colorUniqueId": "private_14580094",
               "isWeldingPlank": false,
-              "ggid": "8rO.h00N",
-              "barCodeGgid": "594570073000049"
+              "ggid": "8rRTp00N",
+              "barCodeGgid": "594592621000049"
             },
             {
               "partName": "Handle",
@@ -8046,8 +8046,8 @@
               "rotateInfo": "",
               "colorUniqueId": "private_14580094",
               "isWeldingPlank": false,
-              "ggid": "8rO.h00R",
-              "barCodeGgid": "594570073000053"
+              "ggid": "8rRTp00R",
+              "barCodeGgid": "594592621000053"
             },
             {
               "partName": "Plank",
@@ -8185,7 +8185,7 @@
                   "diameter": 8,
                   "holeType": "bigHole",
                   "symbol": "locatorHoleC",
-                  "uniqueId": 23850,
+                  "uniqueId": 24119,
                   "others": null
                 },
                 {
@@ -8197,7 +8197,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23850,
+                  "uniqueId": 24119,
                   "others": null
                 },
                 {
@@ -8212,7 +8212,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23851,
+                  "uniqueId": 24120,
                   "others": null
                 },
                 {
@@ -8271,7 +8271,7 @@
                   "diameter": 6,
                   "holeType": "sideHole",
                   "symbol": "locatorHoleB",
-                  "uniqueId": 23849,
+                  "uniqueId": 24118,
                   "others": null
                 },
                 {
@@ -8283,7 +8283,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23850,
+                  "uniqueId": 24119,
                   "others": null
                 },
                 {
@@ -8295,7 +8295,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23851,
+                  "uniqueId": 24120,
                   "others": null
                 }
               ],
@@ -8310,8 +8310,8 @@
               "rotateInfo": "",
               "colorUniqueId": "private_14580094",
               "isWeldingPlank": false,
-              "ggid": "8rO.h00S",
-              "barCodeGgid": "594570073000054"
+              "ggid": "8rRTp00S",
+              "barCodeGgid": "594592621000054"
             },
             {
               "partName": "Plank",
@@ -8449,7 +8449,7 @@
                   "diameter": 8,
                   "holeType": "bigHole",
                   "symbol": "locatorHoleC",
-                  "uniqueId": 23855,
+                  "uniqueId": 24124,
                   "others": null
                 },
                 {
@@ -8461,7 +8461,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23855,
+                  "uniqueId": 24124,
                   "others": null
                 },
                 {
@@ -8476,7 +8476,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23856,
+                  "uniqueId": 24125,
                   "others": null
                 },
                 {
@@ -8535,7 +8535,7 @@
                   "diameter": 6,
                   "holeType": "sideHole",
                   "symbol": "locatorHoleB",
-                  "uniqueId": 23854,
+                  "uniqueId": 24123,
                   "others": null
                 },
                 {
@@ -8547,7 +8547,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23855,
+                  "uniqueId": 24124,
                   "others": null
                 },
                 {
@@ -8559,7 +8559,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23856,
+                  "uniqueId": 24125,
                   "others": null
                 }
               ],
@@ -8574,8 +8574,8 @@
               "rotateInfo": "",
               "colorUniqueId": "private_14580094",
               "isWeldingPlank": false,
-              "ggid": "8rO.h00T",
-              "barCodeGgid": "594570073000055"
+              "ggid": "8rRTp00T",
+              "barCodeGgid": "594592621000055"
             },
             {
               "partName": "Plank",
@@ -8731,7 +8731,7 @@
                   "diameter": 6,
                   "holeType": "bigHole",
                   "symbol": "locatorHoleA",
-                  "uniqueId": 23859,
+                  "uniqueId": 24128,
                   "others": null
                 },
                 {
@@ -8742,7 +8742,7 @@
                   "ocenter": { "x": 11, "y": 756 },
                   "diameter": 6,
                   "holeType": "locatorHole",
-                  "uniqueId": 23860,
+                  "uniqueId": 24129,
                   "others": null
                 },
                 {
@@ -8754,7 +8754,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23860,
+                  "uniqueId": 24129,
                   "others": null
                 },
                 {
@@ -8766,7 +8766,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23861,
+                  "uniqueId": 24130,
                   "others": null
                 },
                 {
@@ -8778,7 +8778,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23862,
+                  "uniqueId": 24131,
                   "others": null
                 },
                 {
@@ -8790,7 +8790,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23863,
+                  "uniqueId": 24132,
                   "others": null
                 },
                 {
@@ -8838,7 +8838,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23860,
+                  "uniqueId": 24129,
                   "others": null
                 },
                 {
@@ -8850,7 +8850,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23861,
+                  "uniqueId": 24130,
                   "others": null
                 },
                 {
@@ -8862,7 +8862,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23862,
+                  "uniqueId": 24131,
                   "others": null
                 },
                 {
@@ -8874,7 +8874,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23863,
+                  "uniqueId": 24132,
                   "others": null
                 }
               ],
@@ -8889,8 +8889,8 @@
               "rotateInfo": "",
               "colorUniqueId": "private_14580094",
               "isWeldingPlank": false,
-              "ggid": "8rO.h00U",
-              "barCodeGgid": "594570073000056"
+              "ggid": "8rRTp00U",
+              "barCodeGgid": "594592621000056"
             },
             {
               "partName": "Plank",
@@ -9096,7 +9096,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23865,
+                  "uniqueId": 24134,
                   "others": null
                 },
                 {
@@ -9108,7 +9108,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23866,
+                  "uniqueId": 24135,
                   "others": null
                 },
                 {
@@ -9120,7 +9120,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23867,
+                  "uniqueId": 24136,
                   "others": null
                 },
                 {
@@ -9132,7 +9132,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23868,
+                  "uniqueId": 24137,
                   "others": null
                 },
                 {
@@ -9144,7 +9144,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23869,
+                  "uniqueId": 24138,
                   "others": null
                 },
                 {
@@ -9156,7 +9156,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23870,
+                  "uniqueId": 24139,
                   "others": null
                 },
                 {
@@ -9168,7 +9168,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23871,
+                  "uniqueId": 24140,
                   "others": null
                 },
                 {
@@ -9180,7 +9180,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23872,
+                  "uniqueId": 24141,
                   "others": null
                 },
                 {
@@ -9192,7 +9192,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23873,
+                  "uniqueId": 24142,
                   "others": null
                 },
                 {
@@ -9204,7 +9204,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23874,
+                  "uniqueId": 24143,
                   "others": null
                 }
               ],
@@ -9219,7 +9219,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23865,
+                  "uniqueId": 24134,
                   "others": null
                 },
                 {
@@ -9231,7 +9231,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23866,
+                  "uniqueId": 24135,
                   "others": null
                 },
                 {
@@ -9243,7 +9243,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23867,
+                  "uniqueId": 24136,
                   "others": null
                 },
                 {
@@ -9255,7 +9255,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23868,
+                  "uniqueId": 24137,
                   "others": null
                 },
                 {
@@ -9267,7 +9267,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23869,
+                  "uniqueId": 24138,
                   "others": null
                 },
                 {
@@ -9279,7 +9279,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23870,
+                  "uniqueId": 24139,
                   "others": null
                 },
                 {
@@ -9291,7 +9291,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23871,
+                  "uniqueId": 24140,
                   "others": null
                 },
                 {
@@ -9303,7 +9303,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23872,
+                  "uniqueId": 24141,
                   "others": null
                 },
                 {
@@ -9315,7 +9315,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23873,
+                  "uniqueId": 24142,
                   "others": null
                 },
                 {
@@ -9327,7 +9327,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23874,
+                  "uniqueId": 24143,
                   "others": null
                 }
               ],
@@ -9342,8 +9342,8 @@
               "rotateInfo": "",
               "colorUniqueId": "private_14580094",
               "isWeldingPlank": false,
-              "ggid": "8rO.h00P",
-              "barCodeGgid": "594570073000051"
+              "ggid": "8rRTp00P",
+              "barCodeGgid": "594592621000051"
             },
             {
               "partName": "Handle",
@@ -9723,8 +9723,8 @@
               "rotateInfo": "",
               "colorUniqueId": "private_14580094",
               "isWeldingPlank": false,
-              "ggid": "8rO.h00X",
-              "barCodeGgid": "594570073000059"
+              "ggid": "8rRTp00X",
+              "barCodeGgid": "594592621000059"
             },
             {
               "partName": "Plank",
@@ -9862,7 +9862,7 @@
                   "diameter": 8,
                   "holeType": "bigHole",
                   "symbol": "locatorHoleC",
-                  "uniqueId": 23879,
+                  "uniqueId": 24148,
                   "others": null
                 },
                 {
@@ -9874,7 +9874,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23879,
+                  "uniqueId": 24148,
                   "others": null
                 },
                 {
@@ -9889,7 +9889,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23880,
+                  "uniqueId": 24149,
                   "others": null
                 },
                 {
@@ -9948,7 +9948,7 @@
                   "diameter": 6,
                   "holeType": "sideHole",
                   "symbol": "locatorHoleB",
-                  "uniqueId": 23878,
+                  "uniqueId": 24147,
                   "others": null
                 },
                 {
@@ -9960,7 +9960,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23879,
+                  "uniqueId": 24148,
                   "others": null
                 },
                 {
@@ -9972,7 +9972,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23880,
+                  "uniqueId": 24149,
                   "others": null
                 }
               ],
@@ -9987,8 +9987,8 @@
               "rotateInfo": "",
               "colorUniqueId": "private_14580094",
               "isWeldingPlank": false,
-              "ggid": "8rO.h00Y",
-              "barCodeGgid": "594570073000060"
+              "ggid": "8rRTp00Y",
+              "barCodeGgid": "594592621000060"
             },
             {
               "partName": "Plank",
@@ -10126,7 +10126,7 @@
                   "diameter": 8,
                   "holeType": "bigHole",
                   "symbol": "locatorHoleC",
-                  "uniqueId": 23884,
+                  "uniqueId": 24153,
                   "others": null
                 },
                 {
@@ -10138,7 +10138,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23884,
+                  "uniqueId": 24153,
                   "others": null
                 },
                 {
@@ -10153,7 +10153,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23885,
+                  "uniqueId": 24154,
                   "others": null
                 },
                 {
@@ -10212,7 +10212,7 @@
                   "diameter": 6,
                   "holeType": "sideHole",
                   "symbol": "locatorHoleB",
-                  "uniqueId": 23883,
+                  "uniqueId": 24152,
                   "others": null
                 },
                 {
@@ -10224,7 +10224,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23884,
+                  "uniqueId": 24153,
                   "others": null
                 },
                 {
@@ -10236,7 +10236,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23885,
+                  "uniqueId": 24154,
                   "others": null
                 }
               ],
@@ -10251,8 +10251,8 @@
               "rotateInfo": "",
               "colorUniqueId": "private_14580094",
               "isWeldingPlank": false,
-              "ggid": "8rO.h00Z",
-              "barCodeGgid": "594570073000061"
+              "ggid": "8rRTp00Z",
+              "barCodeGgid": "594592621000061"
             },
             {
               "partName": "Plank",
@@ -10408,7 +10408,7 @@
                   "diameter": 6,
                   "holeType": "bigHole",
                   "symbol": "locatorHoleA",
-                  "uniqueId": 23888,
+                  "uniqueId": 24157,
                   "others": null
                 },
                 {
@@ -10419,7 +10419,7 @@
                   "ocenter": { "x": 11, "y": 774 },
                   "diameter": 6,
                   "holeType": "locatorHole",
-                  "uniqueId": 23889,
+                  "uniqueId": 24158,
                   "others": null
                 },
                 {
@@ -10431,7 +10431,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23889,
+                  "uniqueId": 24158,
                   "others": null
                 },
                 {
@@ -10443,7 +10443,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23890,
+                  "uniqueId": 24159,
                   "others": null
                 },
                 {
@@ -10455,7 +10455,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23891,
+                  "uniqueId": 24160,
                   "others": null
                 },
                 {
@@ -10467,7 +10467,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23892,
+                  "uniqueId": 24161,
                   "others": null
                 },
                 {
@@ -10515,7 +10515,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23889,
+                  "uniqueId": 24158,
                   "others": null
                 },
                 {
@@ -10527,7 +10527,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23890,
+                  "uniqueId": 24159,
                   "others": null
                 },
                 {
@@ -10539,7 +10539,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23891,
+                  "uniqueId": 24160,
                   "others": null
                 },
                 {
@@ -10551,7 +10551,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23892,
+                  "uniqueId": 24161,
                   "others": null
                 }
               ],
@@ -10566,8 +10566,8 @@
               "rotateInfo": "",
               "colorUniqueId": "private_14580094",
               "isWeldingPlank": false,
-              "ggid": "8rO.h00`",
-              "barCodeGgid": "594570073000062"
+              "ggid": "8rRTp00`",
+              "barCodeGgid": "594592621000062"
             },
             {
               "partName": "Plank",
@@ -10773,7 +10773,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23894,
+                  "uniqueId": 24163,
                   "others": null
                 },
                 {
@@ -10785,7 +10785,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23895,
+                  "uniqueId": 24164,
                   "others": null
                 },
                 {
@@ -10797,7 +10797,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23896,
+                  "uniqueId": 24165,
                   "others": null
                 },
                 {
@@ -10809,7 +10809,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23897,
+                  "uniqueId": 24166,
                   "others": null
                 },
                 {
@@ -10821,7 +10821,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23898,
+                  "uniqueId": 24167,
                   "others": null
                 },
                 {
@@ -10833,7 +10833,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23899,
+                  "uniqueId": 24168,
                   "others": null
                 },
                 {
@@ -10845,7 +10845,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23900,
+                  "uniqueId": 24169,
                   "others": null
                 },
                 {
@@ -10857,7 +10857,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23901,
+                  "uniqueId": 24170,
                   "others": null
                 },
                 {
@@ -10869,7 +10869,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23902,
+                  "uniqueId": 24171,
                   "others": null
                 },
                 {
@@ -10881,7 +10881,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23903,
+                  "uniqueId": 24172,
                   "others": null
                 }
               ],
@@ -10896,7 +10896,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23894,
+                  "uniqueId": 24163,
                   "others": null
                 },
                 {
@@ -10908,7 +10908,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23895,
+                  "uniqueId": 24164,
                   "others": null
                 },
                 {
@@ -10920,7 +10920,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23896,
+                  "uniqueId": 24165,
                   "others": null
                 },
                 {
@@ -10932,7 +10932,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23897,
+                  "uniqueId": 24166,
                   "others": null
                 },
                 {
@@ -10944,7 +10944,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23898,
+                  "uniqueId": 24167,
                   "others": null
                 },
                 {
@@ -10956,7 +10956,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23899,
+                  "uniqueId": 24168,
                   "others": null
                 },
                 {
@@ -10968,7 +10968,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23900,
+                  "uniqueId": 24169,
                   "others": null
                 },
                 {
@@ -10980,7 +10980,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23901,
+                  "uniqueId": 24170,
                   "others": null
                 },
                 {
@@ -10992,7 +10992,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23902,
+                  "uniqueId": 24171,
                   "others": null
                 },
                 {
@@ -11004,7 +11004,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23903,
+                  "uniqueId": 24172,
                   "others": null
                 }
               ],
@@ -11019,8 +11019,8 @@
               "rotateInfo": "",
               "colorUniqueId": "private_14580094",
               "isWeldingPlank": false,
-              "ggid": "8rO.h00V",
-              "barCodeGgid": "594570073000057"
+              "ggid": "8rRTp00V",
+              "barCodeGgid": "594592621000057"
             },
             {
               "partName": "Handle",
@@ -11400,8 +11400,8 @@
               "rotateInfo": "",
               "colorUniqueId": "private_14580094",
               "isWeldingPlank": false,
-              "ggid": "8rO.h00@",
-              "barCodeGgid": "594570073000065"
+              "ggid": "8rRTp00@",
+              "barCodeGgid": "594592621000065"
             },
             {
               "partName": "Plank",
@@ -11539,7 +11539,7 @@
                   "diameter": 8,
                   "holeType": "bigHole",
                   "symbol": "locatorHoleC",
-                  "uniqueId": 23908,
+                  "uniqueId": 24177,
                   "others": null
                 },
                 {
@@ -11551,7 +11551,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23908,
+                  "uniqueId": 24177,
                   "others": null
                 },
                 {
@@ -11566,7 +11566,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23909,
+                  "uniqueId": 24178,
                   "others": null
                 },
                 {
@@ -11625,7 +11625,7 @@
                   "diameter": 6,
                   "holeType": "sideHole",
                   "symbol": "locatorHoleB",
-                  "uniqueId": 23907,
+                  "uniqueId": 24176,
                   "others": null
                 },
                 {
@@ -11637,7 +11637,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23908,
+                  "uniqueId": 24177,
                   "others": null
                 },
                 {
@@ -11649,7 +11649,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23909,
+                  "uniqueId": 24178,
                   "others": null
                 }
               ],
@@ -11664,8 +11664,8 @@
               "rotateInfo": "",
               "colorUniqueId": "private_14580094",
               "isWeldingPlank": false,
-              "ggid": "8rO.h00#",
-              "barCodeGgid": "594570073000066"
+              "ggid": "8rRTp00#",
+              "barCodeGgid": "594592621000066"
             },
             {
               "partName": "Plank",
@@ -11803,7 +11803,7 @@
                   "diameter": 8,
                   "holeType": "bigHole",
                   "symbol": "locatorHoleC",
-                  "uniqueId": 23913,
+                  "uniqueId": 24182,
                   "others": null
                 },
                 {
@@ -11815,7 +11815,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23913,
+                  "uniqueId": 24182,
                   "others": null
                 },
                 {
@@ -11830,7 +11830,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23914,
+                  "uniqueId": 24183,
                   "others": null
                 },
                 {
@@ -11889,7 +11889,7 @@
                   "diameter": 6,
                   "holeType": "sideHole",
                   "symbol": "locatorHoleB",
-                  "uniqueId": 23912,
+                  "uniqueId": 24181,
                   "others": null
                 },
                 {
@@ -11901,7 +11901,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23913,
+                  "uniqueId": 24182,
                   "others": null
                 },
                 {
@@ -11913,7 +11913,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23914,
+                  "uniqueId": 24183,
                   "others": null
                 }
               ],
@@ -11928,8 +11928,8 @@
               "rotateInfo": "",
               "colorUniqueId": "private_14580094",
               "isWeldingPlank": false,
-              "ggid": "8rO.h00$",
-              "barCodeGgid": "594570073000067"
+              "ggid": "8rRTp00$",
+              "barCodeGgid": "594592621000067"
             },
             {
               "partName": "Plank",
@@ -12085,7 +12085,7 @@
                   "diameter": 6,
                   "holeType": "bigHole",
                   "symbol": "locatorHoleA",
-                  "uniqueId": 23917,
+                  "uniqueId": 24186,
                   "others": null
                 },
                 {
@@ -12096,7 +12096,7 @@
                   "ocenter": { "x": 11, "y": 774 },
                   "diameter": 6,
                   "holeType": "locatorHole",
-                  "uniqueId": 23918,
+                  "uniqueId": 24187,
                   "others": null
                 },
                 {
@@ -12108,7 +12108,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23918,
+                  "uniqueId": 24187,
                   "others": null
                 },
                 {
@@ -12120,7 +12120,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23919,
+                  "uniqueId": 24188,
                   "others": null
                 },
                 {
@@ -12132,7 +12132,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23920,
+                  "uniqueId": 24189,
                   "others": null
                 },
                 {
@@ -12144,7 +12144,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23921,
+                  "uniqueId": 24190,
                   "others": null
                 },
                 {
@@ -12192,7 +12192,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23918,
+                  "uniqueId": 24187,
                   "others": null
                 },
                 {
@@ -12204,7 +12204,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23919,
+                  "uniqueId": 24188,
                   "others": null
                 },
                 {
@@ -12216,7 +12216,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23920,
+                  "uniqueId": 24189,
                   "others": null
                 },
                 {
@@ -12228,7 +12228,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23921,
+                  "uniqueId": 24190,
                   "others": null
                 }
               ],
@@ -12243,8 +12243,8 @@
               "rotateInfo": "",
               "colorUniqueId": "private_14580094",
               "isWeldingPlank": false,
-              "ggid": "8rO.h00%",
-              "barCodeGgid": "594570073000068"
+              "ggid": "8rRTp00%",
+              "barCodeGgid": "594592621000068"
             },
             {
               "partName": "Plank",
@@ -12450,7 +12450,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23923,
+                  "uniqueId": 24192,
                   "others": null
                 },
                 {
@@ -12462,7 +12462,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23924,
+                  "uniqueId": 24193,
                   "others": null
                 },
                 {
@@ -12474,7 +12474,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23925,
+                  "uniqueId": 24194,
                   "others": null
                 },
                 {
@@ -12486,7 +12486,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23926,
+                  "uniqueId": 24195,
                   "others": null
                 },
                 {
@@ -12498,7 +12498,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23927,
+                  "uniqueId": 24196,
                   "others": null
                 },
                 {
@@ -12510,7 +12510,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23928,
+                  "uniqueId": 24197,
                   "others": null
                 },
                 {
@@ -12522,7 +12522,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23929,
+                  "uniqueId": 24198,
                   "others": null
                 },
                 {
@@ -12534,7 +12534,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23930,
+                  "uniqueId": 24199,
                   "others": null
                 },
                 {
@@ -12546,7 +12546,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23931,
+                  "uniqueId": 24200,
                   "others": null
                 },
                 {
@@ -12558,7 +12558,7 @@
                   "diameter": 15,
                   "holeType": "bigHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23932,
+                  "uniqueId": 24201,
                   "others": null
                 }
               ],
@@ -12573,7 +12573,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23923,
+                  "uniqueId": 24192,
                   "others": null
                 },
                 {
@@ -12585,7 +12585,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23924,
+                  "uniqueId": 24193,
                   "others": null
                 },
                 {
@@ -12597,7 +12597,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23925,
+                  "uniqueId": 24194,
                   "others": null
                 },
                 {
@@ -12609,7 +12609,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23926,
+                  "uniqueId": 24195,
                   "others": null
                 },
                 {
@@ -12621,7 +12621,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23927,
+                  "uniqueId": 24196,
                   "others": null
                 },
                 {
@@ -12633,7 +12633,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23928,
+                  "uniqueId": 24197,
                   "others": null
                 },
                 {
@@ -12645,7 +12645,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23929,
+                  "uniqueId": 24198,
                   "others": null
                 },
                 {
@@ -12657,7 +12657,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23930,
+                  "uniqueId": 24199,
                   "others": null
                 },
                 {
@@ -12669,7 +12669,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23931,
+                  "uniqueId": 24200,
                   "others": null
                 },
                 {
@@ -12681,7 +12681,7 @@
                   "diameter": 8,
                   "holeType": "sideHole",
                   "symbol": "3in1Lock",
-                  "uniqueId": 23932,
+                  "uniqueId": 24201,
                   "others": null
                 }
               ],
@@ -12696,8 +12696,8 @@
               "rotateInfo": "",
               "colorUniqueId": "private_14580094",
               "isWeldingPlank": false,
-              "ggid": "8rO.h00~",
-              "barCodeGgid": "594570073000063"
+              "ggid": "8rRTp00~",
+              "barCodeGgid": "594592621000063"
             },
             {
               "partName": "Handle",
@@ -12992,8 +12992,8 @@
               "rotateInfo": "",
               "colorUniqueId": "private_14580094",
               "isWeldingPlank": false,
-              "ggid": "8rO.h00^",
-              "barCodeGgid": "594570073000069"
+              "ggid": "8rRTp00^",
+              "barCodeGgid": "594592621000069"
             },
             {
               "partName": "Plank",
@@ -13117,8 +13117,8 @@
               "rotateInfo": "",
               "colorUniqueId": "private_14580094",
               "isWeldingPlank": false,
-              "ggid": "8rO.h00&",
-              "barCodeGgid": "594570073000070"
+              "ggid": "8rRTp00&",
+              "barCodeGgid": "594592621000070"
             }
           ],
           "partsChildren": [],
@@ -13292,7 +13292,7 @@
               "diameter": 15,
               "holeType": "bigHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23936,
+              "uniqueId": 24205,
               "others": null
             },
             {
@@ -13304,7 +13304,7 @@
               "diameter": 15,
               "holeType": "bigHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23937,
+              "uniqueId": 24206,
               "others": null
             }
           ],
@@ -13319,7 +13319,7 @@
               "diameter": 8,
               "holeType": "sideHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23936,
+              "uniqueId": 24205,
               "others": null
             },
             {
@@ -13331,7 +13331,7 @@
               "diameter": 8,
               "holeType": "sideHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23937,
+              "uniqueId": 24206,
               "others": null
             }
           ],
@@ -13346,8 +13346,8 @@
           "rotateInfo": "",
           "colorUniqueId": "private_14580094",
           "isWeldingPlank": false,
-          "ggid": "8rO.h00(",
-          "barCodeGgid": "594570073000072"
+          "ggid": "8rRTp00(",
+          "barCodeGgid": "594592621000072"
         },
         {
           "partName": "Plank",
@@ -13508,8 +13508,8 @@
           "rotateInfo": "",
           "colorUniqueId": "private_14580094",
           "isWeldingPlank": false,
-          "ggid": "8rO.h00[",
-          "barCodeGgid": "594570073000077"
+          "ggid": "8rRTp00[",
+          "barCodeGgid": "594592621000077"
         },
         {
           "partName": "Plank",
@@ -13670,8 +13670,8 @@
           "rotateInfo": "",
           "colorUniqueId": "private_14580094",
           "isWeldingPlank": false,
-          "ggid": "8rO.h00{",
-          "barCodeGgid": "594570073000078"
+          "ggid": "8rRTp00{",
+          "barCodeGgid": "594592621000078"
         },
         {
           "partName": "Plank",
@@ -13832,8 +13832,8 @@
           "rotateInfo": "",
           "colorUniqueId": "private_14580094",
           "isWeldingPlank": false,
-          "ggid": "8rO.h00]",
-          "barCodeGgid": "594570073000079"
+          "ggid": "8rRTp00]",
+          "barCodeGgid": "594592621000079"
         },
         {
           "partName": "Plank",
@@ -13994,8 +13994,8 @@
           "rotateInfo": "",
           "colorUniqueId": "private_14580094",
           "isWeldingPlank": false,
-          "ggid": "8rO.h00}",
-          "barCodeGgid": "594570073000080"
+          "ggid": "8rRTp00}",
+          "barCodeGgid": "594592621000080"
         },
         {
           "partName": "EndCap",
@@ -14053,36 +14053,36 @@
               "plankRemarks": [
                 {
                   "direction": "vertical",
-                  "currentRow": null,
-                  "currentColumn": 0,
+                  "currentRow": 8,
+                  "currentColumn": 1,
                   "vertices": [
-                    { "z": 15, "y": 2037.5, "x": 0 },
-                    { "z": 15, "y": 2037.5, "x": 0 },
-                    { "z": 15, "y": 0, "x": 0 },
-                    { "z": 15, "y": 0, "x": 0 }
+                    { "z": 2.5, "y": 1125, "x": 0 },
+                    { "z": 27.5, "y": 1125, "x": 0 },
+                    { "z": 27.5, "y": 925, "x": 0 },
+                    { "z": 2.5, "y": 925, "x": 0 }
                   ],
                   "side": "positive",
-                  "textStyle": { "size": 9, "color": "#000000" },
-                  "textureId": "…_Infinity_0_horizontal.png",
+                  "textStyle": { "size": 5, "color": "#000000" },
+                  "textureId": "不封边13213_8_1_horizontal.png",
                   "hDir": "!Z",
-                  "showTexts": "…",
+                  "showTexts": "不封边13213",
                   "text": "不封边13213"
                 },
                 {
                   "direction": "vertical",
-                  "currentRow": null,
-                  "currentColumn": 0,
+                  "currentRow": 8,
+                  "currentColumn": 1,
                   "vertices": [
-                    { "z": 15, "y": 2037.5, "x": 18 },
-                    { "z": 15, "y": 2037.5, "x": 18 },
-                    { "z": 15, "y": 0, "x": 18 },
-                    { "z": 15, "y": 0, "x": 18 }
+                    { "z": 27.5, "y": 1125, "x": 18 },
+                    { "z": 2.5, "y": 1125, "x": 18 },
+                    { "z": 2.5, "y": 925, "x": 18 },
+                    { "z": 27.5, "y": 925, "x": 18 }
                   ],
                   "side": "negative",
-                  "textStyle": { "size": 9, "color": "#000000" },
-                  "textureId": "…_Infinity_0_horizontal.png",
+                  "textStyle": { "size": 5, "color": "#000000" },
+                  "textureId": "不封边13213_8_1_horizontal.png",
                   "hDir": "Z",
-                  "showTexts": "…",
+                  "showTexts": "不封边13213",
                   "text": "不封边13213"
                 }
               ],
@@ -14166,8 +14166,8 @@
               "rotateInfo": "",
               "colorUniqueId": "private_14580094",
               "isWeldingPlank": false,
-              "ggid": "8rO.h01a",
-              "barCodeGgid": "594570073000102"
+              "ggid": "8rRTp01a",
+              "barCodeGgid": "594592621000102"
             }
           ],
           "partsChildren": [],
@@ -14338,8 +14338,8 @@
               "rotateInfo": "",
               "colorUniqueId": "private_14580094",
               "isWeldingPlank": false,
-              "ggid": "8rO.h01t",
-              "barCodeGgid": "594570073000121"
+              "ggid": "8rRTp01t",
+              "barCodeGgid": "594592621000121"
             },
             {
               "partName": "Plank",
@@ -14460,8 +14460,8 @@
               "rotateInfo": "",
               "colorUniqueId": "private_14580094",
               "isWeldingPlank": false,
-              "ggid": "8rO.h01u",
-              "barCodeGgid": "594570073000122"
+              "ggid": "8rRTp01u",
+              "barCodeGgid": "594592621000122"
             }
           ],
           "partsChildren": [],
@@ -14730,8 +14730,8 @@
           "rotateInfo": "",
           "colorUniqueId": "private_14580094",
           "isWeldingPlank": false,
-          "ggid": "8rO.h00;",
-          "barCodeGgid": "594570073000081"
+          "ggid": "8rRTp00;",
+          "barCodeGgid": "594592621000081"
         },
         {
           "partName": "Plank",
@@ -14913,8 +14913,8 @@
           "rotateInfo": "",
           "colorUniqueId": "private_14580094",
           "isWeldingPlank": false,
-          "ggid": "8rO.h00:",
-          "barCodeGgid": "594570073000082"
+          "ggid": "8rRTp00:",
+          "barCodeGgid": "594592621000082"
         },
         {
           "partName": "Plank",
@@ -14992,42 +14992,6 @@
           "plkId": 83,
           "plankNum": "2718225165098",
           "installNum": 4,
-          "plankRemarks": [
-            {
-              "direction": "horizontal",
-              "currentRow": 1,
-              "currentColumn": 11,
-              "vertices": [
-                { "x": 647, "z": 207.5, "y": 0 },
-                { "x": 1197, "z": 207.5, "y": 0 },
-                { "x": 1197, "z": 257.5, "y": 0 },
-                { "x": 647, "z": 257.5, "y": 0 }
-              ],
-              "side": "positive",
-              "textStyle": { "size": 10, "color": "#000000" },
-              "textureId": "312412ewqee_1_11_horizontal.png",
-              "hDir": "!X",
-              "showTexts": "312412ewqee",
-              "text": "312412ewqee"
-            },
-            {
-              "direction": "horizontal",
-              "currentRow": 1,
-              "currentColumn": 11,
-              "vertices": [
-                { "x": 647, "z": 257.5, "y": 18 },
-                { "x": 1197, "z": 257.5, "y": 18 },
-                { "x": 1197, "z": 207.5, "y": 18 },
-                { "x": 647, "z": 207.5, "y": 18 }
-              ],
-              "side": "negative",
-              "textStyle": { "size": 10, "color": "#000000" },
-              "textureId": "312412ewqee_1_11_horizontal.png",
-              "hDir": "!X",
-              "showTexts": "312412ewqee",
-              "text": "312412ewqee"
-            }
-          ],
           "wordList": {},
           "plankRoleType": 4,
           "creator": "",
@@ -15107,7 +15071,7 @@
               "diameter": 15,
               "holeType": "bigHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23966,
+              "uniqueId": 24235,
               "others": null
             },
             {
@@ -15119,7 +15083,7 @@
               "diameter": 15,
               "holeType": "bigHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23967,
+              "uniqueId": 24236,
               "others": null
             },
             {
@@ -15131,7 +15095,7 @@
               "diameter": 15,
               "holeType": "bigHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23968,
+              "uniqueId": 24237,
               "others": null
             },
             {
@@ -15143,7 +15107,7 @@
               "diameter": 15,
               "holeType": "bigHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23969,
+              "uniqueId": 24238,
               "others": null
             },
             {
@@ -15207,7 +15171,7 @@
               "diameter": 8,
               "holeType": "sideHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23966,
+              "uniqueId": 24235,
               "others": null
             },
             {
@@ -15219,7 +15183,7 @@
               "diameter": 8,
               "holeType": "sideHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23967,
+              "uniqueId": 24236,
               "others": null
             },
             {
@@ -15231,7 +15195,7 @@
               "diameter": 8,
               "holeType": "sideHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23968,
+              "uniqueId": 24237,
               "others": null
             },
             {
@@ -15243,7 +15207,7 @@
               "diameter": 8,
               "holeType": "sideHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23969,
+              "uniqueId": 24238,
               "others": null
             }
           ],
@@ -15258,8 +15222,8 @@
           "rotateInfo": "",
           "colorUniqueId": "private_14580094",
           "isWeldingPlank": false,
-          "ggid": "8rO.h00'",
-          "barCodeGgid": "594570073000083"
+          "ggid": "8rRTp00'",
+          "barCodeGgid": "594592621000083"
         },
         {
           "partName": "Plank",
@@ -15415,7 +15379,7 @@
               "diameter": 15,
               "holeType": "bigHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23971,
+              "uniqueId": 24240,
               "others": null
             },
             {
@@ -15427,7 +15391,7 @@
               "diameter": 15,
               "holeType": "bigHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23972,
+              "uniqueId": 24241,
               "others": null
             },
             {
@@ -15439,7 +15403,7 @@
               "diameter": 15,
               "holeType": "bigHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23973,
+              "uniqueId": 24242,
               "others": null
             },
             {
@@ -15451,7 +15415,7 @@
               "diameter": 15,
               "holeType": "bigHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23974,
+              "uniqueId": 24243,
               "others": null
             },
             {
@@ -15515,7 +15479,7 @@
               "diameter": 8,
               "holeType": "sideHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23971,
+              "uniqueId": 24240,
               "others": null
             },
             {
@@ -15527,7 +15491,7 @@
               "diameter": 8,
               "holeType": "sideHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23972,
+              "uniqueId": 24241,
               "others": null
             },
             {
@@ -15539,7 +15503,7 @@
               "diameter": 8,
               "holeType": "sideHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23973,
+              "uniqueId": 24242,
               "others": null
             },
             {
@@ -15551,7 +15515,7 @@
               "diameter": 8,
               "holeType": "sideHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23974,
+              "uniqueId": 24243,
               "others": null
             }
           ],
@@ -15566,8 +15530,8 @@
           "rotateInfo": "",
           "colorUniqueId": "private_14580094",
           "isWeldingPlank": false,
-          "ggid": "8rO.h00|",
-          "barCodeGgid": "594570073000084"
+          "ggid": "8rRTp00|",
+          "barCodeGgid": "594592621000084"
         },
         {
           "partName": "Plank",
@@ -15723,7 +15687,7 @@
               "diameter": 15,
               "holeType": "bigHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23976,
+              "uniqueId": 24245,
               "others": null
             },
             {
@@ -15735,7 +15699,7 @@
               "diameter": 15,
               "holeType": "bigHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23977,
+              "uniqueId": 24246,
               "others": null
             },
             {
@@ -15747,7 +15711,7 @@
               "diameter": 15,
               "holeType": "bigHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23978,
+              "uniqueId": 24247,
               "others": null
             },
             {
@@ -15759,7 +15723,7 @@
               "diameter": 15,
               "holeType": "bigHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23979,
+              "uniqueId": 24248,
               "others": null
             }
           ],
@@ -15801,7 +15765,7 @@
               "diameter": 8,
               "holeType": "sideHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23976,
+              "uniqueId": 24245,
               "others": null
             },
             {
@@ -15813,7 +15777,7 @@
               "diameter": 8,
               "holeType": "sideHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23977,
+              "uniqueId": 24246,
               "others": null
             },
             {
@@ -15825,7 +15789,7 @@
               "diameter": 8,
               "holeType": "sideHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23978,
+              "uniqueId": 24247,
               "others": null
             },
             {
@@ -15837,7 +15801,7 @@
               "diameter": 8,
               "holeType": "sideHole",
               "symbol": "3in1Lock",
-              "uniqueId": 23979,
+              "uniqueId": 24248,
               "others": null
             }
           ],
@@ -15852,8 +15816,8 @@
           "rotateInfo": "",
           "colorUniqueId": "private_14580094",
           "isWeldingPlank": false,
-          "ggid": "8rO.h00,",
-          "barCodeGgid": "594570073000085"
+          "ggid": "8rRTp00,",
+          "barCodeGgid": "594592621000085"
         },
         {
           "partName": "Plank",
@@ -15972,8 +15936,8 @@
           "rotateInfo": "",
           "colorUniqueId": "private_14580094",
           "isWeldingPlank": false,
-          "ggid": "8rO.h00.",
-          "barCodeGgid": "594570073000086"
+          "ggid": "8rRTp00.",
+          "barCodeGgid": "594592621000086"
         },
         {
           "partName": "Plank",
@@ -16092,8 +16056,8 @@
           "rotateInfo": "",
           "colorUniqueId": "private_14580094",
           "isWeldingPlank": false,
-          "ggid": "8rO.h00<",
-          "barCodeGgid": "594570073000087"
+          "ggid": "8rRTp00<",
+          "barCodeGgid": "594592621000087"
         },
         {
           "partName": "Door",
@@ -16251,8 +16215,8 @@
               "rotateInfo": "",
               "colorUniqueId": "private_14580094",
               "isWeldingPlank": false,
-              "ggid": "8rO.h00>",
-              "barCodeGgid": "594570073000088"
+              "ggid": "8rRTp00>",
+              "barCodeGgid": "594592621000088"
             },
             {
               "partName": "SingleDoor",
@@ -16396,8 +16360,8 @@
               "rotateInfo": "",
               "colorUniqueId": "private_14580094",
               "isWeldingPlank": false,
-              "ggid": "8rO.h00?",
-              "barCodeGgid": "594570073000089"
+              "ggid": "8rRTp00?",
+              "barCodeGgid": "594592621000089"
             },
             {
               "partName": "Handle",
@@ -16779,8 +16743,8 @@
               "rotateInfo": "",
               "colorUniqueId": "private_14580094",
               "isWeldingPlank": false,
-              "ggid": "8rO.h010",
-              "barCodeGgid": "594570073000092"
+              "ggid": "8rRTp010",
+              "barCodeGgid": "594592621000092"
             },
             {
               "partName": "Handle",
@@ -17012,8 +16976,8 @@
               "rotateInfo": "",
               "colorUniqueId": "private_14580094",
               "isWeldingPlank": false,
-              "ggid": "8rO.h012",
-              "barCodeGgid": "594570073000094"
+              "ggid": "8rRTp012",
+              "barCodeGgid": "594592621000094"
             },
             {
               "partName": "Handle",
@@ -17287,8 +17251,8 @@
               "rotateInfo": "",
               "colorUniqueId": "private_14580094",
               "isWeldingPlank": false,
-              "ggid": "8rO.h014",
-              "barCodeGgid": "594570073000096"
+              "ggid": "8rRTp014",
+              "barCodeGgid": "594592621000096"
             },
             {
               "partName": "Plank",
@@ -17412,8 +17376,8 @@
               "rotateInfo": "",
               "colorUniqueId": "private_14580094",
               "isWeldingPlank": false,
-              "ggid": "8rO.h015",
-              "barCodeGgid": "594570073000097"
+              "ggid": "8rRTp015",
+              "barCodeGgid": "594592621000097"
             }
           ],
           "partsChildren": [],
@@ -17587,8 +17551,8 @@
               "rotateInfo": "",
               "colorUniqueId": "private_14580094",
               "isWeldingPlank": false,
-              "ggid": "8rO.h016",
-              "barCodeGgid": "594570073000098"
+              "ggid": "8rRTp016",
+              "barCodeGgid": "594592621000098"
             },
             {
               "partName": "Plank",
@@ -17712,8 +17676,8 @@
               "rotateInfo": "",
               "colorUniqueId": "private_14580094",
               "isWeldingPlank": false,
-              "ggid": "8rO.h017",
-              "barCodeGgid": "594570073000099"
+              "ggid": "8rRTp017",
+              "barCodeGgid": "594592621000099"
             }
           ],
           "partsChildren": [],
@@ -17813,70 +17777,70 @@
   "roomIds": [75213014, 75590640],
   "productNum": 1,
   "plankIndex": {
-    "8rO.h001": [0, 0],
-    "8rO.h002": [0, 1],
-    "8rO.h009": [0, 2],
-    "8rO.h00b": [0, 3, 0],
-    "8rO.h00c": [0, 3, 1],
-    "8rO.h00d": [0, 3, 2],
-    "8rO.h00a": [0, 4],
-    "8rO.h00e": [0, 5],
-    "8rO.h00f": [0, 6],
-    "8rO.h00h": [0, 7, 0],
-    "8rO.h00i": [0, 7, 1],
-    "8rO.h00m": [0, 8],
-    "8rO.h00o": [0, 9, 0],
-    "8rO.h00p": [0, 9, 1],
-    "8rO.h00q": [0, 10, 0],
-    "8rO.h00r": [0, 10, 1],
-    "8rO.h00s": [0, 10, 2],
-    "8rO.h00t": [0, 11],
-    "8rO.h00u": [0, 12],
-    "8rO.h00v": [0, 13],
-    "8rO.h00w": [0, 14],
-    "8rO.h00x": [0, 15],
-    "8rO.h00L": [0, 16, 0],
-    "8rO.h00N": [0, 16, 1],
-    "8rO.h00R": [0, 17, 0],
-    "8rO.h00S": [0, 17, 1],
-    "8rO.h00T": [0, 17, 2],
-    "8rO.h00U": [0, 17, 3],
-    "8rO.h00P": [0, 17, 4],
-    "8rO.h00X": [0, 18, 0],
-    "8rO.h00Y": [0, 18, 1],
-    "8rO.h00Z": [0, 18, 2],
-    "8rO.h00`": [0, 18, 3],
-    "8rO.h00V": [0, 18, 4],
-    "8rO.h00@": [0, 19, 0],
-    "8rO.h00#": [0, 19, 1],
-    "8rO.h00$": [0, 19, 2],
-    "8rO.h00%": [0, 19, 3],
-    "8rO.h00~": [0, 19, 4],
-    "8rO.h00^": [0, 20, 0],
-    "8rO.h00&": [0, 20, 1],
-    "8rO.h00(": [0, 21],
-    "8rO.h00[": [0, 22],
-    "8rO.h00{": [0, 23],
-    "8rO.h00]": [0, 24],
-    "8rO.h00}": [0, 25],
-    "8rO.h01a": [0, 26, 0],
-    "8rO.h01t": [0, 27, 0],
-    "8rO.h01u": [0, 27, 1],
-    "8rO.h00;": [1, 0],
-    "8rO.h00:": [1, 1],
-    "8rO.h00'": [1, 2],
-    "8rO.h00|": [1, 3],
-    "8rO.h00,": [1, 4],
-    "8rO.h00.": [1, 5],
-    "8rO.h00<": [1, 6],
-    "8rO.h00>": [1, 7, 0],
-    "8rO.h00?": [1, 7, 1],
-    "8rO.h010": [1, 8, 0],
-    "8rO.h012": [1, 8, 2],
-    "8rO.h014": [1, 9, 0],
-    "8rO.h015": [1, 9, 1],
-    "8rO.h016": [1, 10, 0],
-    "8rO.h017": [1, 10, 1]
+    "8rRTp001": [0, 0],
+    "8rRTp002": [0, 1],
+    "8rRTp009": [0, 2],
+    "8rRTp00b": [0, 3, 0],
+    "8rRTp00c": [0, 3, 1],
+    "8rRTp00d": [0, 3, 2],
+    "8rRTp00a": [0, 4],
+    "8rRTp00e": [0, 5],
+    "8rRTp00f": [0, 6],
+    "8rRTp00h": [0, 7, 0],
+    "8rRTp00i": [0, 7, 1],
+    "8rRTp00m": [0, 8],
+    "8rRTp00o": [0, 9, 0],
+    "8rRTp00p": [0, 9, 1],
+    "8rRTp00q": [0, 10, 0],
+    "8rRTp00r": [0, 10, 1],
+    "8rRTp00s": [0, 10, 2],
+    "8rRTp00t": [0, 11],
+    "8rRTp00u": [0, 12],
+    "8rRTp00v": [0, 13],
+    "8rRTp00w": [0, 14],
+    "8rRTp00x": [0, 15],
+    "8rRTp00L": [0, 16, 0],
+    "8rRTp00N": [0, 16, 1],
+    "8rRTp00R": [0, 17, 0],
+    "8rRTp00S": [0, 17, 1],
+    "8rRTp00T": [0, 17, 2],
+    "8rRTp00U": [0, 17, 3],
+    "8rRTp00P": [0, 17, 4],
+    "8rRTp00X": [0, 18, 0],
+    "8rRTp00Y": [0, 18, 1],
+    "8rRTp00Z": [0, 18, 2],
+    "8rRTp00`": [0, 18, 3],
+    "8rRTp00V": [0, 18, 4],
+    "8rRTp00@": [0, 19, 0],
+    "8rRTp00#": [0, 19, 1],
+    "8rRTp00$": [0, 19, 2],
+    "8rRTp00%": [0, 19, 3],
+    "8rRTp00~": [0, 19, 4],
+    "8rRTp00^": [0, 20, 0],
+    "8rRTp00&": [0, 20, 1],
+    "8rRTp00(": [0, 21],
+    "8rRTp00[": [0, 22],
+    "8rRTp00{": [0, 23],
+    "8rRTp00]": [0, 24],
+    "8rRTp00}": [0, 25],
+    "8rRTp01a": [0, 26, 0],
+    "8rRTp01t": [0, 27, 0],
+    "8rRTp01u": [0, 27, 1],
+    "8rRTp00;": [1, 0],
+    "8rRTp00:": [1, 1],
+    "8rRTp00'": [1, 2],
+    "8rRTp00|": [1, 3],
+    "8rRTp00,": [1, 4],
+    "8rRTp00.": [1, 5],
+    "8rRTp00<": [1, 6],
+    "8rRTp00>": [1, 7, 0],
+    "8rRTp00?": [1, 7, 1],
+    "8rRTp010": [1, 8, 0],
+    "8rRTp012": [1, 8, 2],
+    "8rRTp014": [1, 9, 0],
+    "8rRTp015": [1, 9, 1],
+    "8rRTp016": [1, 10, 0],
+    "8rRTp017": [1, 10, 1]
   },
   "curveIndex": {}
 }
