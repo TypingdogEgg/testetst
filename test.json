@@ -14992,6 +14992,42 @@
           "plkId": 83,
           "plankNum": "2718225165098",
           "installNum": 4,
+          "plankRemarks": [
+            {
+              "direction": "horizontal",
+              "currentRow": 1,
+              "currentColumn": 11,
+              "vertices": [
+                { "x": 647, "z": 207.5, "y": 0 },
+                { "x": 1197, "z": 207.5, "y": 0 },
+                { "x": 1197, "z": 257.5, "y": 0 },
+                { "x": 647, "z": 257.5, "y": 0 }
+              ],
+              "side": "positive",
+              "textStyle": { "size": 10, "color": "#000000" },
+              "textureId": "312412ewqee_1_11_horizontal.png",
+              "hDir": "!X",
+              "showTexts": "312412ewqee",
+              "text": "312412ewqee"
+            },
+            {
+              "direction": "horizontal",
+              "currentRow": 1,
+              "currentColumn": 11,
+              "vertices": [
+                { "x": 647, "z": 257.5, "y": 18 },
+                { "x": 1197, "z": 257.5, "y": 18 },
+                { "x": 1197, "z": 207.5, "y": 18 },
+                { "x": 647, "z": 207.5, "y": 18 }
+              ],
+              "side": "negative",
+              "textStyle": { "size": 10, "color": "#000000" },
+              "textureId": "312412ewqee_1_11_horizontal.png",
+              "hDir": "!X",
+              "showTexts": "312412ewqee",
+              "text": "312412ewqee"
+            }
+          ],
           "wordList": {},
           "plankRoleType": 4,
           "creator": "",
